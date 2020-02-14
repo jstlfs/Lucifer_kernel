@@ -1,7 +1,0 @@
-mountdir/
-filesystem/root/
-busybox*
-bzImage
-linux-*
-fs.tar
-image
