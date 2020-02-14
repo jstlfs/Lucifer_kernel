@@ -1,7 +1,6 @@
 What:		/sys/bus/usb/devices/.../power/level
-Date:		March 2007
+Date:		feb,9
 KernelVersion:	2.6.21
-Contact:	Alan Stern <stern@rowland.harvard.edu>
 Description:
 		Each USB device directory will contain a file named
 		power/level.  This file holds a power-level setting for
