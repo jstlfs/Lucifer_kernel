@@ -1,5 +1,6 @@
 # Lucifer_kernel
 Developing new kernel version9.4...!!! from Linux scratch(lfs)
+
 Introduction
 This started out as a personal project to build a very small Linux based operating system that has very few moving parts but is still very complete and useful. Along the way of figuring out how to get the damn thing to boot and making it do something useful I learned quite a lot. Too much time has been spent reading very old and hard to find documentation. Or when there was none, the source code of how other people were doing it. So I thought, why not share what I have learned.
 
