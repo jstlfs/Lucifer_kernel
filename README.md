@@ -22,7 +22,7 @@ The Linux Kernel
 
 The kernel is the core component of our operating system. It manages the
 processes and talks to the hardware on our behalf. You can retrieve a copy of
-the source code easily from [kernel.org](https://www.kernel.org/). There are
+the source code easily from [kernel.org] https://www.kernel.org/doc/html/latest/. There are
 multiple versions to choose from, choosing one is usually a tradeoff between
 stability and wanting newer features. If you look at the
 [Releases](https://www.kernel.org/category/releases.html) tab, you can see how
