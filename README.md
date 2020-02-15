@@ -1,4 +1,4 @@
-Build yourself a Linux
+Linux (lfs)
 ======================
 
 Introduction
